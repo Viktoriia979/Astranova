@@ -1,1 +1,61 @@
+.link-header{
+  text-align:right;
+  color:white;
+  border: solid 3px #8935DE;
+  border radius:6px;
+  background-color: #8935DE;
+}
 
+header{
+  background-color: #0C1250;
+}
+
+.Astronova h1{
+  font-size:100px;
+  font-family:Times New Roman;
+  text-align:center;
+}
+
+.Astronova h2{
+  text-align:center;
+}
+
+p{
+  font-size:25px;
+}
+
+.extra p{
+  font-size:60px;
+}
+
+.Jupiter p{
+  font-size:30px;
+}
+
+.BlackHole p{
+  font-size:30px;
+}
+
+.Exoplanets p{
+  font-size:30px;
+}
+
+.extra img{
+  width: 70px;
+  hieght: 50px;
+}
+
+.StarMap a{
+  font-size:20px;
+  color: white;
+  background-color:#8935DE;
+  border:solid 3px #8935DE;
+}
+
+.extra{
+  background-color:#0C1250;
+}
+
+footer{
+  background-color:#0C1250;
+}
