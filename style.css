@@ -2,7 +2,7 @@
   text-align:right;
   color:white;
   border: solid 3px #8935DE;
-  border radius:6px;
+  border-radius:6px;
   background-color: #8935DE;
 }
 
@@ -41,8 +41,9 @@ p{
 }
 
 .extra img{
-  width: 70px;
-  hieght: 50px;
+  width: 700px;
+  hieght: 500px;
+  border:dash 6px #8935DE;
 }
 
 .StarMap a{
@@ -54,8 +55,21 @@ p{
 
 .extra{
   background-color:#0C1250;
+  color:white;
 }
 
 footer{
   background-color:#0C1250;
+}
+
+.SmallText{
+  color:white;
+}
+
+footer p{
+  text-align:center;
+   color:white;
+  border: solid 3px #8935DE;
+  border-radius:6px;
+  background-color: #8935DE;
 }
