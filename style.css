@@ -24,17 +24,19 @@ header a{
 
 .Astronova h2{
   text-align:center;
-  text-decoration: underline;
 }
 
 p{
   font-size:25px;
   text-align: center;
 }
-
 .extra p{
   font-size:40px;
-  text-align: left;
+  text-align: center;
+  text-decoration: underline;
+  margin: 10px;
+  padding: 10px;
+}
 }
 
 .Jupiter p{
@@ -54,7 +56,7 @@ p{
 
 .extra img{
   width: 300px;
-  hieght: 200px;
+  
   border:dash 6px #8935DE;
 }
 
@@ -99,4 +101,17 @@ footer a{
   color: white;
   border:solid 3px #8935DE;
   background-color: rgb(79, 81, 216);
+}
+
+ .box {
+  text-align: center;
+  border:10px groove #8935DE;
+  margin: 10px;
+  padding: 10px;
+  
+}
+
+.Exo-Planets p{
+  font-size: 20px;
+  text-align: center;
 }
